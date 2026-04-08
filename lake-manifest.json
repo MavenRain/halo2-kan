@@ -1,0 +1,15 @@
+{"version": "1.1.0",
+ "packagesDir": ".lake/packages",
+ "packages":
+ [{"url": "https://github.com/MavenRain/kan-tactics",
+   "type": "git",
+   "subDir": null,
+   "scope": "",
+   "rev": "db7226bd1f77aeb4e03039452392fd97e576ec00",
+   "name": "«kan-tactics»",
+   "manifestFile": "lake-manifest.json",
+   "inputRev": "db7226bd1f77aeb4e03039452392fd97e576ec00",
+   "inherited": false,
+   "configFile": "lakefile.lean"}],
+ "name": "«halo2-kan»",
+ "lakeDir": ".lake"}
